@@ -1,0 +1,39 @@
+---
+title: "Buttefly Rearing Information"
+author: "Taylor Hatcher"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: true
+    toc_float: true 
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Background
+This website can used for addressing any questions regarding butterfly lab rearing. If you can't find the information you are looking for her, please let Taylor Hatcher (taymhather@gmail.com) know and she will add any missing information. Butterly rearing in the lab involves a lot of moving parts and some planning. Hopefully this website will aide in those tasks and help facilitate a good workflow!
+
+# Supplies 
+Here are the links for the supplies we use in the lab and what channel to purchase them through:
+<b> Bleach, petri dishes, latex gloves, lab tape, and paper towels</b> can be purchased via the  [Biology Stock Room](https://admin.biology.uw.edu/stockroom/login)
+
+Other supplies for the lab can be purchased via [purchase path](https://www.pathology.washington.edu/purchasePATH/?DEPT=24:):
+<br> [Butterfly Nectar](https://www.amazon.com/Birds-Choice-NP1005-Butterfly-Nectar/dp/B001QLKSL8/)
+<br> [Butterfly Large Cages](https://www.amazon.com/RESTCLOUD-Insect-Butterfly-Habitat-Terrarium/dp/B074ZHXF48/)
+<br> [Butterfly Square Cages 12x12x12](https://www.amazon.com/RESTCLOUD-Butterfly-Habitat-Terrarium-Protection/dp/B082X3L64V/)
+<br> [Brassica Oleracea seeds](https://www.highmowingseeds.com/organic-non-gmo-champion-collards.html)
+<br> [Sponges](https://www.amazon.com/Temede-Cellulose-Non-Scratch-Compressed-Household/dp/B09H2S77JG/)
+<br> [Soft touch forceps](https://www.amazon.com/DR-Instruments-Entomology-Stainless-Steel-Construction/dp/B07B4767WR/)
+<br> [Butterfly forceps](https://www.amazon.com/MMOBIEL-Stainless-Precision-Philately-Development/dp/B096MPLZ6Q/)
+<br> [Glassine envelopes](https://www.amazon.com/Uline-Mini-Glassine-Paper-Bags/dp/B009N44XNO/)
+<br> [Lab notebooks](https://www.amazon.com/DesignWorks-Ink-Standard-Personal-Journal/dp/B01FMRZYCE/)
+
+
+
+
+
+
+
+
