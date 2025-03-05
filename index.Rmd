@@ -17,7 +17,7 @@ This website can used for addressing any questions regarding butterfly lab reari
 
 # Supplies 
 Here are the links for the supplies we use in the lab and what channel to purchase them through:
-<b> Bleach, petri dishes, latex gloves, lab tape, and paper towels</b> can be purchased via the  [Biology Stock Room](https://admin.biology.uw.edu/stockroom/login)
+<b> Bleach, petri dishes, latex gloves, lab tape, greenhouse soil, and paper towels</b> can be purchased via the  [Biology Stock Room](https://admin.biology.uw.edu/stockroom/login)
 
 Other supplies for the lab can be purchased via [purchase path](https://www.pathology.washington.edu/purchasePATH/?DEPT=24:):
 <br> [Butterfly Nectar](https://www.amazon.com/Birds-Choice-NP1005-Butterfly-Nectar/dp/B001QLKSL8/)
@@ -28,7 +28,19 @@ Other supplies for the lab can be purchased via [purchase path](https://www.path
 <br> [Soft touch forceps](https://www.amazon.com/DR-Instruments-Entomology-Stainless-Steel-Construction/dp/B07B4767WR/)
 <br> [Butterfly forceps](https://www.amazon.com/MMOBIEL-Stainless-Precision-Philately-Development/dp/B096MPLZ6Q/)
 <br> [Glassine envelopes](https://www.amazon.com/Uline-Mini-Glassine-Paper-Bags/dp/B009N44XNO/)
+<br> [Organic Fertilizer]
 <br> [Lab notebooks](https://www.amazon.com/DesignWorks-Ink-Standard-Personal-Journal/dp/B01FMRZYCE/)
+
+# Rearing Chambers
+<br> LSB 4th Floor Chambers
+<br> B2 Conviron Chambers - contact Alex Hansen 
+
+# Programming and Troubleshooting Chambers
+
+# LSB Greenhouse
+Anyone working/volunteering in the greenhouse needs greenhouse access. You can request access with a keyform (found on the biology department admin website) via biokeys@uw.edu. After public building hours access needs special permission from the greenhouse manager. Anyone working in the greenhouse will need to meet and orient with the greenhouse manager. 
+
+
 
 
 
