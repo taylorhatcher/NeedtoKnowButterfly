@@ -44,7 +44,10 @@ Anyone working/volunteering in the greenhouse needs greenhouse access. You can r
 
 # Caterpillar development timeline
 
+# HOBO Loggers
+There are 4 hobo loggers that record ambient temperature and relative humidity. You can connect to them via bluetooth on the HOBO app that is available in the app store. 
 
+There are 3 hobo loggers used in the field that connect to thermocouples. If you need oriented to them, please schedule a meeting with Taylor.
 
 
 
