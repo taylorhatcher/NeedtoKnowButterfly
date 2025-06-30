@@ -36,18 +36,32 @@ Other supplies for the lab can be purchased via [purchase path](https://www.path
 <br> B2 Conviron Chambers - contact Alex Hansen 
 
 # Programming and Troubleshooting Chambers
+It is important to have temperature loggers in any chambers running for experiments. You will need to check these frequently to ensure the chambers are behaving how they should. 
+
+If you are having issues with the B2 Conviron Chambers, contact the building manager, Alex Hansen.
 
 # LSB Greenhouse
 Anyone working/volunteering in the greenhouse needs greenhouse access. You can request access with a keyform (found on the biology department admin website) via biokeys@uw.edu. After public building hours access needs special permission from the greenhouse manager. Anyone working in the greenhouse will need to meet and orient with the greenhouse manager. 
 
 # UCAR Reservation Protocol
+If you are needing to use a UCAR for research, you will have to first complete the UCAR training. You can find all of the information [here](https://transportation.uw.edu/getting-around/vehicle-rental-ucar)
 
 # Caterpillar development timeline
+When rearing caterpillars, it is important to be able to estimate the time they will be ready for experiments.
+For Pieris rapae:
+For 10-30°C 16L:8D treatment caterpillars usually take ~13 days from catching to fresh 4th instars. 
+For 11-35°C 16L:8D treatment caterpillars usually take ~11 days from catching to fresh 4th instars.
+
+For Pontia occidentalis:
+It takes about a month from catching and setting up oviposition cages to adult butteflies.
 
 # HOBO Loggers
 There are 4 hobo loggers that record ambient temperature and relative humidity. You can connect to them via bluetooth on the HOBO app that is available in the app store. 
 
 There are 3 hobo loggers used in the field that connect to thermocouples. If you need oriented to them, please schedule a meeting with Taylor.
+
+# Volunteers
+Anyone volunteering in the lab is required to fill out a volunteer form which should be returned to the department administrator. Email Taylor for the updated volunteer form. 
 
 
 
